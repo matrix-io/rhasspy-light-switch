@@ -1,2 +1,2 @@
 # rhasppy-light-switch
-Control your lights with voice using Rhasppy
+Control your lights with voice using Rhasppy!
